@@ -1,0 +1,22 @@
+{
+  "name": "linter-rholang",
+  "version": "1.0.0",
+  "description": "npm package for linter language rholang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisu/linter-rholang.git"
+  },
+  "keywords": [
+    "rholang"
+  ],
+  "author": "faisu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faisu/linter-rholang/issues"
+  },
+  "homepage": "https://github.com/faisu/linter-rholang#readme"
+}
